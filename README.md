@@ -1,5 +1,7 @@
 # CompetetiveProgramming
-Includes solved competitive programing problems and challenges 
+Includes solved competitive programing problems and challenges.
+
+Most of the problems are present in the official website, in case you are not able to find the problem, there are links provided in solution. 
 
 CodeForce 
 1. [Educational Codeforces Round 40 (Rated for Div. 2)](https://github.com/niksw7/CompetetiveProgramming/tree/master/codeforce) 
