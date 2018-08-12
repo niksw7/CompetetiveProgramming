@@ -1,6 +1,7 @@
-//https://codejam.withgoogle.com/codejam/contest/9234486/dashboard#s=p1&a=1
 package codejam.practise.lucky
-
+/**
+ * Problem : https://codejam.withgoogle.com/codejam/contest/9234486/dashboard#s=p1&a=1
+ */
 import java.io.File
 
 private val bufferedReader = File("/Users/nikeshshetty/ProjectFactory/everydevelopermustknow/src/codejam/practise/lucky/B-large-practice.in").bufferedReader()

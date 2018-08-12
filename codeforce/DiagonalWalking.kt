@@ -1,8 +1,9 @@
 package codeforce
 
-/*
-http://codeforces.com/contest/954/problem/A
+/**
+ * Problem : http://codeforces.com/contest/954/problem/A
  */
+
 fun main(args: Array<String>) {
     readLine()!!.toInt()
     var previous = 'D'

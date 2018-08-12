@@ -1,7 +1,7 @@
 package codeforce
 
-/*
-http://codeforces.com/contest/954/problem/B
+/**
+ * Problem : http://codeforces.com/contest/954/problem/B
  */
 fun main(args: Array<String>) {
     readLine()!!.toInt()

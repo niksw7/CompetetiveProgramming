@@ -1,5 +1,4 @@
 package codejam.kickstart.practise
-//O()
 import java.io.File
 
 private val fileName = "D-large-practice"

@@ -1,6 +1,7 @@
-//https://codejam.withgoogle.com/codejam/contest/9234486/dashboard#s=p2&a=1
 package codejam
-
+/**
+ * Problem : https://codejam.withgoogle.com/codejam/contest/9234486/dashboard#s=p2&a=1
+ */
 import java.io.File
 
 val bufferedReader = File("/Users/nikeshshetty/ProjectFactory/everydevelopermustknow/src/codejam/large.in").bufferedReader()

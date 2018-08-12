@@ -1,12 +1,12 @@
-/*
-Educational Codeforces Round 40 (Rated for Div. 2)
-http://codeforces.com/contest/954/problem/C
-Analysis: The core of the solution lies in testing the following input.
-5
-1 2 3 5 7
-And for that you need to understand that the last column will always be a multiple of columnsSize.
-Didn't ring bells? Code @ line:38
+/**
+ * Problem : http://codeforces.com/contest/954/problem/C
+ * Analysis: The core of the solution lies in testing the following input.
+ * 5
+ * 1 2 3 5 7
+ * And for that you need to understand that the last column will always be a multiple of columnsSize.
+ * Didn't ring bells? Code @ line:38
  */
+
 package codeforce
 
 fun main(args: Array<String>) {

@@ -1,6 +1,7 @@
-//https://codejam.withgoogle.com/codejam/contest/9234486/dashboard#s=p0&a=1
 package codejam.practise.evendigits
-
+/**
+ * Problem : https://codejam.withgoogle.com/codejam/contest/9234486/dashboard#s=p0&a=1
+ */
 fun main(args: Array<String>) {
     val testCase = readLine()!!.toInt()
     repeat(testCase) {
